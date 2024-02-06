@@ -1,3 +1,3 @@
-module example.com/mainFile
+module github.com/LukasUrba/Go
 
-go 1.19
+go 1.21.6

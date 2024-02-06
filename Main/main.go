@@ -3,8 +3,8 @@ package main
 import (
 	text "fmt"
 
-	helloWorld "example.com/mainFile/helloWorld"
-	values "example.com/mainFile/values"
+	helloWorld "github.com/LukasUrba/Go/helloWorld"
+	values "github.com/LukasUrba/Go/values"
 )
 
 func main() {
